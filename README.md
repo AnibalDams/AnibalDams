@@ -1,4 +1,4 @@
-### Hi! I'm Aníbal Dams and this is my profile! (⁠ﾉ⁠◕⁠ヮ⁠◕⁠)⁠ﾉ⁠*⁠.⁠✧
+### Hi! I'm Aníbal Dams!
 
 ![:AnibalDams](https://count.getloli.com/get/@:AnibalDams)
 
