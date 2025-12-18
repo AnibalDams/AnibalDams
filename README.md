@@ -6,6 +6,5 @@ Hello, I'm Anibal Dams, and I'm a fullstack programmer, specializing in Svelte a
 
 ![AnibalDams's GitHub stats](https://readme-stats-mu-nine.vercel.app/api?username=AnibalDams&show_icons=true&theme=transparent&hide_border=true&title_color=9a65ff&icon_color=9a63ff) ![AnibalDams's GitHub stats](https://readme-stats-mu-nine.vercel.app/api/top-langs?username=AnibalDams&show_icons=true&theme=transparent&hide_border=true&title_color=9a65ff&icon_color=9a63ff&layout=compact)
 
-[![mitteiru](https://readme-stats-mu-nine.vercel.app/api/pin/?username=AnibalDams&repo=Mitteiru&show_icons=true&theme=transparent&hide_border=true&title_color=9a65ff&icon_color=9a63ff)](https://github.com/AnibalDams/Mitteiru)
 
 *Contact me at damsanibal1@gmail.com*
